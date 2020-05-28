@@ -32,10 +32,9 @@ This Repository is for Frontend Self Study.
 
 ## Node.js
 
-<<<<<<< HEAD
-1. [Intro](https://github.com/JoonSeongPark/Frontend_studynote/blob/master/NodeJs/01. Nodejs_intro.md "Link")
-2. [http module](https://github.com/JoonSeongPark/Frontend_studynote/blob/master/NodeJs/02. Nodejs_http.md "Link")
-=======
-1. [Intro](https://github.com/JoonSeongPark/Frontend_studynote/blob/master/NodeJs/01.%20Nodejs_intro.md)
-2. [http module](https://github.com/JoonSeongPark/Frontend_studynote/blob/master/NodeJs/02.%20Nodejs_http.md)
->>>>>>> 7abf838683037e089f064619c43378320637bcb4
+1. [Intro](https://github.com/JoonSeongPark/Frontend_studynote/blob/master/NodeJs/01.%20Nodejs_intro.md "Link")
+2. [http module](https://github.com/JoonSeongPark/Frontend_studynote/blob/master/NodeJs/02.%20Nodejs_http.md "Link")
+3. [Express.js](https://github.com/JoonSeongPark/Frontend_studynote/blob/master/NodeJs/03.%20Nodejs_Expressjs.md "Link")
+
+<br>
+<br>

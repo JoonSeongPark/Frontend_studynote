@@ -6,13 +6,9 @@ This Repository is for Frontend Self Study.
 ## React
 
 1. [Intro](https://github.com/JoonSeongPark/Frontend_studynote/blob/master/React/01.%20React_intro.md "Link")
-
 2. [Start](https://github.com/JoonSeongPark/Frontend_studynote/blob/master/React/02.%20React_start.md "Link")
-
 3. [JSX](https://github.com/JoonSeongPark/Frontend_studynote/blob/master/React/03.%20React_JSX.md "Link")
-
 4. [Props/State](https://github.com/JoonSeongPark/Frontend_studynote/blob/master/React/04.%20React_props/state.md "Link")
-
 5. [LifeCycle](https://github.com/JoonSeongPark/Frontend_studynote/blob/master/React/05.%20React_LifeCycle.md "Link")
 
    <br>

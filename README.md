@@ -38,6 +38,7 @@ This Repository is for Frontend Self Study.
 4. [Dynamic Content & Templates](https://github.com/JoonSeongPark/Frontend_studynote/blob/master/NodeJs/04.%20Nodejs_Dynamic.md "Link")
 5. [MVC Pattern](https://github.com/JoonSeongPark/Frontend_studynote/blob/master/NodeJs/05.%20Nodejs_MVC.md "Link")
 6. [Database Basic in Node.js](https://github.com/JoonSeongPark/Frontend_studynote/blob/master/NodeJs/06.%20Nodejs_DB.md "Link")
+7. [Rest API](https://github.com/JoonSeongPark/Frontend_studynote/blob/master/NodeJs/07.%20Nodejs_REST_API.md "Link")
 
 <br>
 <br>
